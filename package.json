@@ -1,0 +1,22 @@
+{
+  "name": "default_handler",
+  "version": "1.0.0",
+  "description": "Discord.js 기본 핸들러 코드 입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erukim/default_handler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/erukim/default_handler/issues"
+  },
+  "homepage": "https://github.com/erukim/default_handler#readme",
+  "dependencies": {
+    "discord.js": "^13.8.0"
+  }
+}
